@@ -1,0 +1,19 @@
+.signal{
+	width:100%;
+	height:300px;
+	background-color:#000;
+}
+.signal-lights{
+	height:200px;
+	width:200px;
+	border-radius:100%;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.yellow{
+	background-color: yellow;
+}
